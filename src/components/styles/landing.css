@@ -1,0 +1,55 @@
+@media screen and (max-width: 400px) {
+    .lCol2{
+        display: none;
+    }
+    .contact-btn{
+        margin-top: 10px;
+    }
+  }
+
+
+.landingcol{
+    height:100vh;
+}
+
+span,h1,h3{
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+
+span{
+    font-size: 24px;
+}
+
+h1{
+    font-size: 100px;
+}
+
+.btn{
+    border-radius: 25px;
+}
+
+.profileDiv{
+    /* background: url('https://wp.shsarker.xyz/dora/wp-content/uploads/2023/04/hero-person-img.png'); */
+    background: url('./yaduProfile.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.landingBoxDiv{
+    bottom: -1%;
+    background-color: rgba(0, 0, 255, 0.152);
+}
+
+.top-box{
+    position: absolute;
+    bottom: -15%;
+    width: 75%;
+    padding-inline: 7%;
+    border-radius: 60px;
+    box-shadow: blac;
+}
+
+
+  
