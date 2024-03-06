@@ -16,7 +16,7 @@ function LandingDiv() {
                 <p style={{fontSize:'16px'}} className='mt-2'>Shot what able cold new the see hold. Friendly as an betrayed formerly he. <br /> Morning because as to society behaved moments</p>
                 
                 <div className='mt-5'>
-                    <a href='https://drive.google.com/file/d/1TuVlprEZIz5k4oClNUrJykt-3OFbDSPW/view?usp=drivesdk'><Button className='btn btn-warning me-1 px-4 py-2 fs-5'>Download CV</Button></a>
+                    <a href='https://drive.google.com/file/d/1Sr388Vdgh9q9swrtQq401ETkRTQvUVRZ/view?usp=drive_link'><Button className='btn btn-warning me-1 px-4 py-2 fs-5'>Download CV</Button></a>
                     <a href='#contact'><Button variant="outline-warning" className='btn px-4 py-2 fs-5 contact-btn'>Contact</Button></a>
                 </div>
             </div>
