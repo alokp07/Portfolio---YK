@@ -13,7 +13,7 @@ function LandingDiv() {
                 <span className='text-warning'>Hi, I'm</span>
                 <h1 style={{fontSize:'75px'}}>Yadu Krishna</h1>
                 <h5 style={{fontSize:'22px'}} className='mt-1'>Cyber Security Engineer</h5>
-                <p style={{fontSize:'16px'}} className='mt-2'>Shot what able cold new the see hold. Friendly as an betrayed formerly he. <br /> Morning because as to society behaved moments</p>
+                <p style={{fontSize:'16px'}} className='mt-2'>Driven cybersecurity professional with a focus on safeguarding digital assets.<br></br> Skilled in proactive defense and responsive solutions for emerging threats</p>
                 
                 <div className='mt-5'>
                     <a href='https://drive.google.com/file/d/1Sr388Vdgh9q9swrtQq401ETkRTQvUVRZ/view?usp=drive_link'><Button className='btn btn-warning me-1 px-4 py-2 fs-5'>Download CV</Button></a>

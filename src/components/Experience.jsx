@@ -59,7 +59,7 @@ function Experience() {
               <h1 className='fs-5'>95%</h1>
           </div>
           <div class="skill-bar"></div>
-          <div class="was skill-fill">
+          <div class="cloud skill-fill">
             <span class="skill-percent"></span>
           </div>
         </div>
