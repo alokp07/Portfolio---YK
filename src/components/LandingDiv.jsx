@@ -12,7 +12,7 @@ function LandingDiv() {
             <div className='d-flex flex-column justify-content-center align-items h-100 px-5'>
                 <span className='text-warning'>Hi, I'm</span>
                 <h1 style={{fontSize:'75px'}}>Yadu Krishna</h1>
-                <h5 style={{fontSize:'22px'}} className='mt-1'>Cyber Security Expert</h5>
+                <h5 style={{fontSize:'22px'}} className='mt-1'>Cyber Security Engineer</h5>
                 <p style={{fontSize:'16px'}} className='mt-2'>Shot what able cold new the see hold. Friendly as an betrayed formerly he. <br /> Morning because as to society behaved moments</p>
                 
                 <div className='mt-5'>

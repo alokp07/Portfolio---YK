@@ -36,7 +36,7 @@ function Experience() {
         <div class="skill">
         <div class="skill-title d-flex justify-content-between">
               <h1 className='fs-5'>Operating System</h1>
-              <h1 className='fs-5'>95%</h1>
+              <h1 className='fs-5'>100%</h1>
           </div>
           <div class="skill-bar"></div>
           <div class="js skill-fill">
@@ -47,6 +47,16 @@ function Experience() {
         <div class="skill-title d-flex justify-content-between">
               <h1 className='fs-5'>Web Application Security</h1>
               <h1 className='fs-5'>75%</h1>
+          </div>
+          <div class="skill-bar"></div>
+          <div class="was skill-fill">
+            <span class="skill-percent"></span>
+          </div>
+        </div>
+        <div class="skill">
+        <div class="skill-title d-flex justify-content-between">
+              <h1 className='fs-5'>Cloud Security</h1>
+              <h1 className='fs-5'>95%</h1>
           </div>
           <div class="skill-bar"></div>
           <div class="was skill-fill">
@@ -100,7 +110,7 @@ function Experience() {
             <Col lg={4} className='d-flex mt-3 ps-4'>
               <div className='d-flex flex-column links'>
                 
-                <span>Phone : 9037229258</span>
+                <span><a href='https://wa.me/9605339258'>Phone : 9605339258</a></span>
                 <span>Email : yadhukrishna774@gmail.com</span>
 
                 <div className='mt-3'>
@@ -112,7 +122,6 @@ function Experience() {
             <Col lg={4} className='d-flex mt-3 ps-4'>
               <div className='add d-flex flex-column'>
                   <span className='text-warning'>Address :</span>
-                  <span>MNJRA 63 ,</span>
                   <span>Palarivattom , </span>
                   <span>Kochi</span>
               </div>
